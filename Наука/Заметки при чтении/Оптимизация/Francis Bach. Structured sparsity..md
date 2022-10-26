@@ -10,6 +10,7 @@
 ---
 
 # План статьи
+
 ![[bash_structured_sparsity_plan.svg]]
 
 

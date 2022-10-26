@@ -8,69 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e655b37d1317fc51",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Наука/Заметки при чтении/Оптимизация/imgs/weight_shrinkage.png"
-              }
-            }
-          },
-          {
-            "id": "a2dbe1471c38f4ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b9cd69ebff4dd3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/khla.manifest.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c33ed4c345fe30da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf337ec4d1bab1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efa17c291d400d4e",
+            "id": "b4810d04a5dc49df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,38 +16,30 @@
                 "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7584a0477d959ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daaac8a1c1c86f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "e6a48db734159f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a179a4e5add51f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +53,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f845a18d51bbab9",
+            "id": "682f7898d463efcc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -139,9 +69,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -159,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 559.5
   },
   "right": {
     "id": "9aef572620abed2d",
@@ -175,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md"
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md"
               }
             }
           },
@@ -237,17 +167,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c33ed4c345fe30da",
+  "active": "b4810d04a5dc49df",
   "lastOpenFiles": [
-    "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/khla.manifest.md",
-    "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
-    "Самобразование/Технологии/Большие данные/Untitled.md",
     "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
-    "Самобразование/Математика/Машинное обучение/Machine learning theory/3. PAC обучение.md",
-    "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
-    "Наука/Заметки при чтении/Оптимизация/Градиентный спуск/Проксимальный метод.md",
+    "Самобразование/Математика/Глоссарий.md",
+    "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
     "Наука/Заметки при чтении/Оптимизация/imgs/bash_structured_sparsity_plan.svg",
-    "Наука/Заметки при чтении/Оптимизация/imgs/weight_shrinkage.png"
+    "Наука/Заметки при чтении/Оптимизация/imgs/weight_shrinkage.png",
+    "Наука/Заметки при чтении/Оптимизация/Градиентный спуск/Проксимальный метод.md",
+    "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md",
+    "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/khla.manifest.md",
+    "Самобразование/Технологии/Большие данные/Untitled.md"
   ]
 }
