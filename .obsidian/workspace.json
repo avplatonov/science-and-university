@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "5e14dddd6c415d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b28b4500d7baeb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e655b37d1317fc51",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Наука/Заметки при чтении/Оптимизация/imgs/weight_shrinkage.png"
+              }
+            }
+          },
+          {
+            "id": "a2dbe1471c38f4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c9c740b5bf900d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "684a67d05a7c8977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f845a18d51bbab9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc6cfb7be0cbd887",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69ad2cfb58d3ca5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aef572620abed2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e2abbb9a50f747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742b5fcd28c5dcaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1fa0dacb3eebc41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b244c21b15009bb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed826e1dadae3d0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md"
+              }
+            }
+          },
+          {
+            "id": "9a7d2fedc91d1965",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a2dbe1471c38f4ba",
+  "lastOpenFiles": [
+    "Наука/Заметки при чтении/Оптимизация/Градиентный спуск/Проксимальный метод.md",
+    "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+    "Наука/Заметки при чтении/Оптимизация/imgs/bash_structured_sparsity_plan.svg",
+    "Наука/Заметки при чтении/Оптимизация/imgs/weight_shrinkage.png",
+    "Templates/12-weeks-planning.tmpl.md",
+    "2022-W42.md",
+    "2022-10-23.md",
+    "Ролевые игры/Мастерятня/Untitled.md"
+  ]
+}
