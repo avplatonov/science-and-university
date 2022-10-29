@@ -5,4 +5,4 @@
 1. [Личная подборка](https://www.youtube.com/playlist?list=PLSoGrPNV19UJ-73LSASm4B07dZ9ySahwM)
 2. [Distributed systems course](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
-**Тэги**: #ml/course/waterloo_ml_theory #ml/theory
+**Тэги**: #db/kleppman
