@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
-                "mode": "source",
+                "file": "Образ жизни/Спорт/Упражнения/Со своим весом.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -60,19 +60,20 @@
             }
           },
           {
-            "id": "b8d90b5e0ee4f453",
+            "id": "1cd0aeceeb369e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Образ жизни/Спорт/Упражнения/Со своим весом.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fitness/exersize/push_up",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md"
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/Untitled.md"
               }
             }
           },
@@ -197,11 +198,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4810d04a5dc49df",
+  "active": "1cd0aeceeb369e73",
   "lastOpenFiles": [
+    "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
     "Образ жизни/Спорт/Упражнения/Со своим весом.md",
     "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md",
-    "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md",
     "Образ жизни/Спорт/Упражнения/imgs/bench_push_ups_1.png",
     "Образ жизни/Спорт/Упражнения/imgs/bar_push_ups.png",
