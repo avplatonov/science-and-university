@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Образ жизни/Спорт/Упражнения/Со своим весом.md",
-                "mode": "source",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fitness/exersize/push_up",
+                "query": "tag:#fitness/exersize/australian_pull_ups",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Образ жизни/Спорт/Упражнения/Со своим весом.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Образ жизни/Спорт/Упражнения/Со своим весом.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Образ жизни/Спорт/Упражнения/Со своим весом.md"
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md"
               }
             }
           },
@@ -147,11 +147,11 @@
   },
   "active": "1cd0aeceeb369e73",
   "lastOpenFiles": [
-    "Образ жизни/Спорт/Упражнения/imgs/australian_pull_ups.png",
-    "Образ жизни/Спорт/Упражнения/Со своим весом.md",
-    "Образ жизни/Спорт/Упражнения/imgs/pull_ups.png",
-    "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
+    "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md",
+    "Образ жизни/Спорт/Упражнения/Со своим весом.md",
+    "Образ жизни/Спорт/Упражнения/imgs/australian_pull_ups.png",
+    "Образ жизни/Спорт/Упражнения/imgs/pull_ups.png",
     "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/note.template.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/imgs/back_muscles.png",
