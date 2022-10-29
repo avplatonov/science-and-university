@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d087eeff3c071797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/note.template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/note.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md",
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/note.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md"
+                "file": "Образ жизни/Спорт/Анатомия силовых упражнений/note.template.md"
               }
             }
           },
@@ -159,10 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "266774bfc3ffb844",
+  "active": "d087eeff3c071797",
   "lastOpenFiles": [
-    "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/khla.manifest.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md",
+    "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/khla.manifest.md",
     "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md",
     "Самобразование/Глоссарий.md",
     "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/imgs/metrics_percentile.png",
