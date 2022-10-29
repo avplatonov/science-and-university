@@ -8,5 +8,7 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "attachmentFolderPath": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения"
+  "attachmentFolderPath": "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения",
+  "spellcheck": true,
+  "showLineNumber": false
 }
