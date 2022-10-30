@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
-                "mode": "preview",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md"
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md"
               }
             }
           },
@@ -147,9 +147,9 @@
   },
   "active": "1cd0aeceeb369e73",
   "lastOpenFiles": [
+    "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/3. PAC обучение.md",
-    "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
     "Образ жизни/Спорт/Упражнения/Со своим весом.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
