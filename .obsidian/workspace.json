@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f58a46421c9614ce",
+        "id": "4aabf6f0364354c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f8e7f31cbeacbc",
+            "id": "e3b4822de9f2a1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
-                "mode": "preview",
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md"
+                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md"
               }
             }
           },
@@ -145,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6f8e7f31cbeacbc",
+  "active": "e3b4822de9f2a1d9",
   "lastOpenFiles": [
+    "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/1. Базовая нотация и понятия.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/3. PAC обучение.md",
@@ -155,7 +156,6 @@
     "Образ жизни/Спорт/Анатомия силовых упражнений/1. Грудные мышцы.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/asu.manifest.md",
     "Образ жизни/Спорт/Анатомия силовых упражнений/note.template.md",
-    "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md",
-    "Образ жизни/Спорт/Упражнения/imgs/australian_pull_ups.png"
+    "Образ жизни/Спорт/Анатомия силовых упражнений/2. Мышцы спины.md"
   ]
 }
