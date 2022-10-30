@@ -100,6 +100,6 @@ flowchart LR;
 	B1 & B2 & B3 --> C;
 ```
 
-Для примера выше мы можем написать регуляризатор типа $R(W) = $
+Для примера выше мы можем написать регуляризатор типа $R(W) = L_2(W_{Layer\ 1}) + L_2(W_{Layer\ 2}) + L_2(W_{Layer\ 3})$
 
 [^1]: Tibshirani, R. (1996), Regression Shrinkage and Selection Via the Lasso. Journal of the Royal Statistical Society: Series B (Methodological), 58: 267-288. [https://doi.org/10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
