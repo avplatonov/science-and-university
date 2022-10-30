@@ -80,6 +80,8 @@ $$
 
 # Структурная регуляризация. Основы
 
+Основная идея структурной регуляризации - это объединение весов модели в группы и применение q-нормы к целой группе. Получается в некотором роде разновидность комбинированной $l_1 / l_q$-нормы:
 
+$$ R(W) = \sum\limits_{g \in G} $$
 
 [^1]: Tibshirani, R. (1996), Regression Shrinkage and Selection Via the Lasso. Journal of the Royal Statistical Society: Series B (Methodological), 58: 267-288. [https://doi.org/10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
