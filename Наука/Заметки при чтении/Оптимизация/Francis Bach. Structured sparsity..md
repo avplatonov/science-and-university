@@ -101,4 +101,7 @@ flowchart LR;
 ```
 
 
+Интересно рассмотреть как работает минимизация такого функционала. Если в случае с $L_1$ нормой решение оптимизационной задачи лежит в районе угловых точек такого шара,  то в случае комбинированной нормы #ml/terms/group_loss 
+
+
 [^1]: Tibshirani, R. (1996), Regression Shrinkage and Selection Via the Lasso. Journal of the Royal Statistical Society: Series B (Methodological), 58: 267-288. [https://doi.org/10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
