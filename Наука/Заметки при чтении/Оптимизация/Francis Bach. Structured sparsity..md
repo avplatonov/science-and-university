@@ -105,8 +105,11 @@ flowchart LR;
 
 ## Group loss с непересекающимися множествами весов модели
 
-$$ R(W) = \sum\limits_{g \in G} d_g ||w_g||_q, $$
-где $w_g \subseteq W$, $G = \{g : g \subseteq W\},\space \forall g_i \in G , g_j \in G . i \neq j |g_i \cap g_j| = 0 $$
+$$ R(W) = \sum\limits_{g \in G} d_g ||w_g||_q, $$ 
+$$ \forall g_i \in G , g_j \in G, i \neq j |g_i \cap g_j| = 0 $$
 
+![[disjoint_group_loss.png]]
+
+В таком случае оптимальное решение будет лежать 
 
 [^1]: Tibshirani, R. (1996), Regression Shrinkage and Selection Via the Lasso. Journal of the Royal Statistical Society: Series B (Methodological), 58: 267-288. [https://doi.org/10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
