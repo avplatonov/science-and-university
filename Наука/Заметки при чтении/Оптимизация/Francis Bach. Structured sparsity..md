@@ -110,6 +110,6 @@ $$ \forall g_i \in G , g_j \in G, i \neq j |g_i \cap g_j| = 0 $$
 
 ![[disjoint_group_loss.png]]
 
-В таком случае оптимальное решение будет лежать 
+В таком случае оптимальное решение будет лежать на фигуре, описываемой конкретной группой. Например, если это пример (а), то одно решение лежит на круге, образуемом весами {1.2}, а другое - в вершине, соответствующей весу {3}.
 
 [^1]: Tibshirani, R. (1996), Regression Shrinkage and Selection Via the Lasso. Journal of the Royal Statistical Society: Series B (Methodological), 58: 267-288. [https://doi.org/10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
