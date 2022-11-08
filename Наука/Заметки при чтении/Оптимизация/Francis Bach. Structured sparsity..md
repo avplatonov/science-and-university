@@ -142,7 +142,9 @@ Bach приводит несколько примеров таких group loss'
 	В этом случае предполагается что веса завязаны между собой в некоторую иерархию и группы организованы таким образом, чтобы нижележащие поддеревья включались только тогда, когда включается родительское поддерево. Примером может служить какая-то сложная математическая функция, в которой расставили скобки и подставили вес перед каждой скобкой [^2].
 	Сам Bach в одной из своих статей описал метод выбора ядра произвольной формы для ядерных методов, типа SVM [^3].
 
+> Однако в случае пересекающихся групп еще важнее правильно подбирать коэффициенты перед группой для сбалансированного обучения группам весов. Однако единого метода подбора коэффициентов не существует. Есть работа, показывающая, что выгоднее использовать такие коэффициенты не в самой группе, а для весов внутри группы (т.е. все вхождения одного веса в разные группы получат один вес), но эта работа посвящена только одномерным группам [^4].
 
 [^1]: Tibshirani, R. (1996), Regression Shrinkage and Selection Via the Lasso. Journal of the Royal Statistical Society: Series B (Methodological), 58: 267-288. [https://doi.org/10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
 [^2]: Да, в общем-то, нейронная сеть таковой является и чисто теоретически можно было бы выделять группы путей от входных признаков к ответам. 
-[^3]: Bach, Francis. "Exploring large feature spaces with hierarchical multiple kernel learning." _Advances in neural information processing systems_ 21 (2008).
+[^3]: Bach, Francis. "Exploring large feature spaces with hierarchical multiple kernel learning." _Advances in neural information processing systems_ 21 (2008). https://arxiv.org/abs/0809.1493
+[^4]: Jenatton, R., Audibert, J. Y. and Bach, F. (2011). Structured Variable Selection with Sparsity-Inducing Norms. Journal of Machine Learning Research 12 2777–2824. 
