@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ml/terms/iid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294
   },
   "right": {
     "id": "9aef572620abed2d",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md"
+                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md"
               }
             }
           },
@@ -145,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbade351afdad77d",
+  "active": "cc6cfb7be0cbd887",
   "lastOpenFiles": [
-    "Наука/Заметки при чтении/Оптимизация/imgs/1-dimentional_group_loss.png",
+    "Самобразование/Математика/Машинное обучение/Machine learning theory/3. PAC обучение.md",
+    "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
     "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
+    "Наука/Заметки при чтении/Оптимизация/imgs/1-dimentional_group_loss.png",
     "Наука/Заметки при чтении/Оптимизация/imgs/disjoint_group_loss.png",
     "Образ жизни/Спорт/Упражнения/Со своим весом.md",
     "Наука/Заметки при чтении/Оптимизация/Субмодулярные функции.md",
     "Образ жизни/Спорт/Упражнения/С гантелями и штангами.md",
     "Образ жизни/Спорт/Упражнения/imgs/overhead_barbell_curl.png",
-    "Образ жизни/Спорт/Упражнения/imgs/hammers.png",
-    "Наука/Заметки при чтении/Статистика/Сравнение сэмплов многомерных распределений.md",
-    "Самобразование/Технологии/Большие данные/Клеппман. Высоконагруженные приложения/1. Надежные, стабильные и удобные в сопровождении приложения.md"
+    "Образ жизни/Спорт/Упражнения/imgs/hammers.png"
   ]
 }
