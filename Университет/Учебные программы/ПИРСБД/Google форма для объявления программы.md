@@ -9,4 +9,4 @@
 6. Карьера
 	* Выпускники программы могут претендовать на позиции Middle Data Engineer, Data Architect, Senior back-end developer. Средняя з.п. 180-250 т.р. 
 8. Потенциальные работодатели
-	* Yandex, Сбербанк, OZON, CDEK, Wildberries, 
+	* VK Group, Yandex, Сбербанк, OZON, CDEK, Wildberries.
