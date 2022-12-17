@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a04e836656258e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,11 +163,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bce7f7994d8427d",
+  "active": "682f7898d463efcc",
   "lastOpenFiles": [
+    "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md",
     "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
     "Наука/Заметки при чтении/Статистика/Сравнение сэмплов многомерных распределений.md",
-    "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md",
     "Наука/Проекты/Untitled.md",
     "Университет/Учебные программы/ПИРСБД/Google форма для объявления программы.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
