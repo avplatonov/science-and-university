@@ -37,8 +37,13 @@
             "id": "5a04e836656258e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Наука/Работа с базой знаний/Как искать статьи.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Наука/Работа с базой знаний/Как искать статьи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Наука/Работа с базой знаний/Как искать статьи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Наука/Работа с базой знаний/Как искать статьи.md"
+              }
             }
           },
           {
@@ -163,8 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "682f7898d463efcc",
+  "active": "5a04e836656258e4",
   "lastOpenFiles": [
+    "Наука/Заметки при чтении/Untitled.md",
+    "Университет/Учебные программы/ПИРСБД/Часы и форма контроля.md",
     "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md",
     "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
     "Наука/Заметки при чтении/Статистика/Сравнение сэмплов многомерных распределений.md",
@@ -172,8 +183,6 @@
     "Университет/Учебные программы/ПИРСБД/Google форма для объявления программы.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/2. ERM обучение.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/3. PAC обучение.md",
-    "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md",
-    "Наука/Заметки при чтении/Оптимизация/imgs/1-dimentional_group_loss.png",
-    "Наука/Заметки при чтении/Оптимизация/imgs/disjoint_group_loss.png"
+    "Наука/Заметки при чтении/Оптимизация/Francis Bach. Structured sparsity..md"
   ]
 }
