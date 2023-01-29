@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
+                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
+                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
+                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md"
+                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "360557b40badc149",
   "lastOpenFiles": [
+    "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
     "Untitled.md",
     "Самобразование/Глоссарий.md",
     "Наука/Проекты/Разреженные эмбединги/Базовая модель.md",
@@ -221,7 +222,6 @@
     "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
     "Наука/Заметки при чтении/Статистика/Сравнение сэмплов многомерных распределений.md",
     "Наука/Заметки при чтении/Untitled.md",
-    "Университет/Учебные программы/ПИРСБД/Часы и форма контроля.md",
-    "Наука/Проекты/Untitled.md"
+    "Университет/Учебные программы/ПИРСБД/Часы и форма контроля.md"
   ]
 }
