@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53fdbdb78a111440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Университет/Семинар о машинном обучении/2023/Q1-Q2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
+                "file": "Университет/Семинар о машинном обучении/2023/Q1-Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
+                "file": "Университет/Семинар о машинном обучении/2023/Q1-Q2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md"
+                "file": "Университет/Семинар о машинном обучении/2023/Q1-Q2.md"
               }
             }
           },
@@ -211,10 +224,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "360557b40badc149",
+  "active": "53fdbdb78a111440",
   "lastOpenFiles": [
-    "Наука/Заметки при чтении/Статистика/Сравнение сэмплов многомерных распределений.md",
     "Университет/Учебные программы/ПИРСБД/Перечень дисциплин.md",
+    "Наука/Заметки при чтении/Статистика/Сравнение сэмплов многомерных распределений.md",
     "Самобразование/Математика/Машинное обучение/Machine learning theory/mlt.manifest.md",
     "Untitled.md",
     "Самобразование/Глоссарий.md",
