@@ -107,9 +107,19 @@
                 "currentVersion": "1.1.15"
               }
             }
+          },
+          {
+            "id": "4bcc825b04fd0fee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -152,6 +162,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8598fdee2e98e6f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -247,7 +265,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8b8e1b8cc41ee4c4",
+  "active": "4bcc825b04fd0fee",
   "lastOpenFiles": [
     "Наука/Проекты/Разреженные эмбединги/Постановка задачи.md",
     "Наука/Проекты/Разреженные эмбединги/Базовая модель.md",
