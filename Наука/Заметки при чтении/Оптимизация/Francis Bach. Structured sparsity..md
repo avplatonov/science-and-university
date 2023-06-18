@@ -1,4 +1,4 @@
-ё# Метаданные
+# Метаданные
 
 **Статья: ** 
 > Bach, Francis & Jenatton, Rodolphe & Mairal, Julien & Obozinski, Guillaume. (2011). Structured Sparsity through Convex Optimization. Statistical Science. 27. 10.1214/12-STS394. 
